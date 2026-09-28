@@ -16,5 +16,5 @@ Thanks for your interest in contributing to followme!
 Clone your fork and enter the project:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/followme.git
+git clone https://github.com/Josh-Ruben/followme.git
 cd followme
